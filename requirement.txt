@@ -1,0 +1,11 @@
+certifi==2019.11.28
+cffi==1.13.2
+chardet==3.0.4
+gevent==1.4.0
+greenlet==0.4.15
+idna==2.8
+lxml==4.4.2
+pycparser==2.19
+PyMySQL==0.9.3
+requests==2.22.0
+urllib3==1.25.7
