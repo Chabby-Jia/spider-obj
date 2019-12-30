@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wealth/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wealth/wealth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_b2b/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_b2b/baidu_b2b.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,6 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/spider_obj$baidu_b2b.coverage" NAME="baidu_b2b Coverage Results" MODIFIED="1577671990343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_b2b" />
     <SUITE FILE_PATH="coverage/spider_obj$wealth.coverage" NAME="wealth Coverage Results" MODIFIED="1577671501691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wealth" />
   </component>
   <component name="FileEditorManager">
@@ -20,14 +21,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wealth/wealth.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="344">
-              <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+            <state relative-caret-position="54">
+              <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baidu_b2b/baidu_b2b.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="44" column="37" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="37" />
+              <folding>
+                <element signature="e#3#43#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wealth/README.md">
+        <entry file="file://$PROJECT_DIR$/baidu_b2b/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="116">
@@ -60,6 +73,8 @@
         <option value="$PROJECT_DIR$/dongfang_spider_stock/README.md" />
         <option value="$PROJECT_DIR$/wealth/wealth.py" />
         <option value="$PROJECT_DIR$/wealth/README.md" />
+        <option value="$PROJECT_DIR$/baidu_b2b/baidu_b2b.py" />
+        <option value="$PROJECT_DIR$/baidu_b2b/README.md" />
       </list>
     </option>
   </component>
@@ -84,7 +99,7 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="wealth" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_b2b" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,9 +117,10 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_b2b" />
+      <recent name="G:\GITHUB\SpiderList\spider-obj" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\wealth" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\dongfang_spider_stock" />
-      <recent name="G:\GITHUB\SpiderList\spider-obj" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -119,7 +135,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.baidu_b2b">
+    <configuration name="baidu_b2b" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-obj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_b2b" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_b2b/baidu_b2b.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="wealth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-obj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,6 +182,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.baidu_b2b" />
         <item itemvalue="Python.wealth" />
       </list>
     </recent_temporary>
@@ -160,12 +199,12 @@
       <updated>1577326393381</updated>
       <workItem from="1577326394871" duration="1345000" />
       <workItem from="1577437265225" duration="3136000" />
-      <workItem from="1577671468906" duration="99000" />
+      <workItem from="1577671468906" duration="674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4580000" />
+    <option name="totallyTimeSpent" value="5155000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -176,7 +215,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.54338396" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3340564" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,14 +279,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wealth/wealth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="111" column="23" lean-forward="true" selection-start-line="111" selection-start-column="23" selection-end-line="111" selection-end-column="23" />
+    <entry file="file://$PROJECT_DIR$/wealth/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wealth/README.md">
+    <entry file="file://$PROJECT_DIR$/wealth/wealth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_b2b/baidu_b2b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="44" column="37" selection-start-line="44" selection-start-column="24" selection-end-line="44" selection-end-column="37" />
+          <folding>
+            <element signature="e#3#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_b2b/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="116">
