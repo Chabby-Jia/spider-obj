@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/lianjia/lianjiaspider.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_baijia/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_baijia/baidu_baijia.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -21,12 +22,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="116">
-                <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+              <first_editor relative-caret-position="145">
+                <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baidu_baijia/baidu_baijia.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1769">
+              <caret line="128" column="39" lean-forward="true" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="87">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
@@ -78,6 +103,9 @@
         <option value="$PROJECT_DIR$/lianjia_spider/111.py" />
         <option value="$PROJECT_DIR$/lianjia_spider/lianjiaspider.py" />
         <option value="$PROJECT_DIR$/lianjia_spider/README.md" />
+        <option value="$PROJECT_DIR$/baidu_baijia.py" />
+        <option value="$PROJECT_DIR$/baidu_baijia/README.md" />
+        <option value="$PROJECT_DIR$/baidu_baijia/baidu_baijia.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -104,7 +132,7 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="lianjia" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_baijia" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -121,7 +149,11 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_b2b" />
       <recent name="G:\GITHUB\SpiderList\spider-obj" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\wealth" />
@@ -274,18 +306,19 @@
       <workItem from="1577326394871" duration="1345000" />
       <workItem from="1577437265225" duration="3136000" />
       <workItem from="1577671468906" duration="2830000" />
-      <workItem from="1579332772792" duration="6815000" />
+      <workItem from="1579332772792" duration="8501000" />
+      <workItem from="1579395513821" duration="812000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14126000" />
+    <option name="totallyTimeSpent" value="16624000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12633263" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -311,6 +344,17 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/baidu_baijia/baidu_baijia.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://F:/epwk一品威客/1shouye.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -334,26 +378,6 @@
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/README.md" />
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/onespiderstock.py" />
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/main.py" />
-    <entry file="file://$PROJECT_DIR$/jikong/spider_jikong.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1812">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jikong/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/wealth/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -391,16 +415,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/screenshots/lianjia.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_spider/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/lianjia_spider/screenshots/lianjia.jpg" />
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1713295727/zlib.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2291">
@@ -408,148 +424,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/LianJiaLogIn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
-          <folding>
-            <element signature="e#26#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia/lianjiaspider.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="150" column="4" lean-forward="true" selection-start-line="150" selection-start-column="4" selection-end-line="150" selection-end-column="4" />
-          <folding>
-            <element signature="e#26#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/111.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="578" column="42" lean-forward="true" selection-start-line="578" selection-start-column="42" selection-end-line="578" selection-end-column="42" />
-          <folding>
-            <element signature="e#15103#15109#1" expanded="true" />
-            <element signature="e#15116#15122#1" expanded="true" />
-            <element signature="e#26594#26600#0" expanded="true" />
-            <element signature="e#31485#31491#0" expanded="true" />
-            <element signature="e#31584#31590#0" expanded="true" />
-            <element signature="e#31633#31639#0" expanded="true" />
-            <element signature="e#34372#34378#0" expanded="true" />
-            <element signature="e#34467#34473#0" expanded="true" />
-            <element signature="e#34513#34519#0" expanded="true" />
-            <element signature="e#37264#37270#0" expanded="true" />
-            <element signature="e#37364#37370#0" expanded="true" />
-            <element signature="e#37411#37417#0" expanded="true" />
-            <element signature="e#39997#40003#0" expanded="true" />
-            <element signature="e#40096#40102#0" expanded="true" />
-            <element signature="e#40145#40151#0" expanded="true" />
-            <element signature="e#42858#42864#0" expanded="true" />
-            <element signature="e#42957#42963#0" expanded="true" />
-            <element signature="e#43009#43015#0" expanded="true" />
-            <element signature="e#45641#45647#0" expanded="true" />
-            <element signature="e#45741#45747#0" expanded="true" />
-            <element signature="e#45793#45799#0" expanded="true" />
-            <element signature="e#48377#48383#0" expanded="true" />
-            <element signature="e#48475#48481#0" expanded="true" />
-            <element signature="e#48524#48530#0" expanded="true" />
-            <element signature="e#51238#51244#0" expanded="true" />
-            <element signature="e#51338#51344#0" expanded="true" />
-            <element signature="e#51390#51396#0" expanded="true" />
-            <element signature="e#54147#54153#0" expanded="true" />
-            <element signature="e#54247#54253#0" expanded="true" />
-            <element signature="e#54294#54300#0" expanded="true" />
-            <element signature="e#57048#57054#0" expanded="true" />
-            <element signature="e#57147#57153#0" expanded="true" />
-            <element signature="e#57191#57197#0" expanded="true" />
-            <element signature="e#59821#59827#0" expanded="true" />
-            <element signature="e#59912#59918#0" expanded="true" />
-            <element signature="e#59956#59962#0" expanded="true" />
-            <element signature="e#62546#62552#0" expanded="true" />
-            <element signature="e#62645#62651#0" expanded="true" />
-            <element signature="e#62694#62700#0" expanded="true" />
-            <element signature="e#65323#65329#0" expanded="true" />
-            <element signature="e#65422#65428#0" expanded="true" />
-            <element signature="e#65474#65480#0" expanded="true" />
-            <element signature="e#68104#68110#0" expanded="true" />
-            <element signature="e#68203#68209#0" expanded="true" />
-            <element signature="e#68247#68253#0" expanded="true" />
-            <element signature="e#70989#70995#0" expanded="true" />
-            <element signature="e#71087#71093#0" expanded="true" />
-            <element signature="e#71133#71139#0" expanded="true" />
-            <element signature="e#73751#73757#0" expanded="true" />
-            <element signature="e#73851#73857#0" expanded="true" />
-            <element signature="e#73903#73909#0" expanded="true" />
-            <element signature="e#76541#76547#0" expanded="true" />
-            <element signature="e#76640#76646#0" expanded="true" />
-            <element signature="e#76689#76695#0" expanded="true" />
-            <element signature="e#79457#79463#0" expanded="true" />
-            <element signature="e#79557#79563#0" expanded="true" />
-            <element signature="e#79606#79612#0" expanded="true" />
-            <element signature="e#82367#82373#0" expanded="true" />
-            <element signature="e#82467#82473#0" expanded="true" />
-            <element signature="e#82519#82525#0" expanded="true" />
-            <element signature="e#85267#85273#0" expanded="true" />
-            <element signature="e#85366#85372#0" expanded="true" />
-            <element signature="e#85413#85419#0" expanded="true" />
-            <element signature="e#88159#88165#0" expanded="true" />
-            <element signature="e#88251#88257#0" expanded="true" />
-            <element signature="e#88295#88301#0" expanded="true" />
-            <element signature="e#91042#91048#0" expanded="true" />
-            <element signature="e#91137#91143#0" expanded="true" />
-            <element signature="e#91181#91187#0" expanded="true" />
-            <element signature="e#93769#93775#0" expanded="true" />
-            <element signature="e#93868#93874#0" expanded="true" />
-            <element signature="e#93914#93920#0" expanded="true" />
-            <element signature="e#96636#96642#0" expanded="true" />
-            <element signature="e#96736#96742#0" expanded="true" />
-            <element signature="e#96783#96789#0" expanded="true" />
-            <element signature="e#99377#99383#0" expanded="true" />
-            <element signature="e#99472#99478#0" expanded="true" />
-            <element signature="e#99516#99522#0" expanded="true" />
-            <element signature="e#102238#102244#0" expanded="true" />
-            <element signature="e#102333#102339#0" expanded="true" />
-            <element signature="e#102377#102383#0" expanded="true" />
-            <element signature="e#105096#105102#0" expanded="true" />
-            <element signature="e#105196#105202#0" expanded="true" />
-            <element signature="e#105248#105254#0" expanded="true" />
-            <element signature="e#108006#108012#0" expanded="true" />
-            <element signature="e#108105#108111#0" expanded="true" />
-            <element signature="e#108149#108155#0" expanded="true" />
-            <element signature="e#110899#110905#0" expanded="true" />
-            <element signature="e#110991#110997#0" expanded="true" />
-            <element signature="e#111043#111049#0" expanded="true" />
-            <element signature="e#113668#113674#0" expanded="true" />
-            <element signature="e#113760#113766#0" expanded="true" />
-            <element signature="e#113807#113813#0" expanded="true" />
-            <element signature="e#115496#115502#0" expanded="true" />
-            <element signature="e#115502#115506#0" expanded="true" />
-            <element signature="e#115506#115512#0" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#116586#116592#0" expanded="true" />
-            <element signature="n#src#0;n#img#0;n#a#0;n#p#2;n#div#0;n#div#1;n#div#7;n#div#1;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#a#0;n#div#1;n#div#5;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#6;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#2;n#ul#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#1;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#3;n#ul#0;n#form#0;n#div#2;n#div#0;n#div#0;n#div#4;n#div#8;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/222.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" column="35" lean-forward="true" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/lianjia_spider/LianJiaLogIn.py" />
+    <entry file="file://$PROJECT_DIR$/lianjia_spider/111.html" />
+    <entry file="file://$PROJECT_DIR$/lianjia_spider/222.py" />
     <entry file="file://$PROJECT_DIR$/lianjia/lianjiaspider.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1090">
@@ -560,9 +437,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban_spider.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/douban_spider.py" />
     <entry file="file://$PROJECT_DIR$/lianjia/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -573,11 +448,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/jikong/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="5" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jikong/spider_jikong.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="116">
-            <caret line="4" column="60" lean-forward="true" selection-start-line="4" selection-start-column="60" selection-end-line="4" selection-end-column="60" />
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_baijia/baidu_baijia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1769">
+          <caret line="128" column="39" lean-forward="true" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
