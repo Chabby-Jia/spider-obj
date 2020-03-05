@@ -7,3 +7,4 @@
 * [京东](https://github.com/lilijiajiajiage/spider-obj/tree/master/jingdong)
 * [豆瓣top](https://github.com/lilijiajiajiage/spider-obj/tree/master/douban)
 * [饿了么](https://github.com/lilijiajiajiage/spider-obj/tree/master/eleme)
+* [今日头条搜索新闻](https://github.com/lilijiajiajiage/spider-obj/tree/master/jinritoutiao)
