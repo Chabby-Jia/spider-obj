@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/baidu_baijia/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/baidu_baijia/baidu_baijia.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/douban/spider_douban.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,37 +16,25 @@
     <SUITE FILE_PATH="coverage/spider_obj$baidu_b2b.coverage" NAME="baidu_b2b Coverage Results" MODIFIED="1577671990343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_b2b" />
     <SUITE FILE_PATH="coverage/spider_obj$222.coverage" NAME="222 Coverage Results" MODIFIED="1579337939680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
     <SUITE FILE_PATH="coverage/spider_obj$LianJiaLogIn.coverage" NAME="LianJiaLogIn Coverage Results" MODIFIED="1579333412875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
-    <SUITE FILE_PATH="coverage/spider_obj$wealth.coverage" NAME="wealth Coverage Results" MODIFIED="1577671501691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wealth" />
+    <SUITE FILE_PATH="coverage/spider_obj$wealth.coverage" NAME="wealth Coverage Results" MODIFIED="1582763365365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wealth" />
     <SUITE FILE_PATH="coverage/spider_obj$111.coverage" NAME="111 Coverage Results" MODIFIED="1579339055830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="145">
-                <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baidu_baijia/baidu_baijia.py">
+        <entry file="file://$PROJECT_DIR$/douban/spider_douban.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1769">
-              <caret line="128" column="39" lean-forward="true" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
+            <state relative-caret-position="406">
+              <caret line="14" column="47" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="47" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
+                <element signature="e#1#16#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
+        <entry file="file://$PROJECT_DIR$/douban/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="87">
@@ -95,7 +82,6 @@
         <option value="$PROJECT_DIR$/wealth/README.md" />
         <option value="$PROJECT_DIR$/baidu_b2b/baidu_b2b.py" />
         <option value="$PROJECT_DIR$/baidu_b2b/README.md" />
-        <option value="$PROJECT_DIR$/douban/douban_spider.py" />
         <option value="$PROJECT_DIR$/lianjia_spider/LianJiaLogIn.py" />
         <option value="$PROJECT_DIR$/lianjia_spider/LianJiaSpider.py" />
         <option value="$PROJECT_DIR$/lianjia_spider/111.html" />
@@ -107,6 +93,8 @@
         <option value="$PROJECT_DIR$/baidu_baijia/README.md" />
         <option value="$PROJECT_DIR$/baidu_baijia/baidu_baijia.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/douban/douban_spider.py" />
+        <option value="$PROJECT_DIR$/douban/README.md" />
       </list>
     </option>
   </component>
@@ -132,7 +120,12 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu_baijia" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
+              <item name="jikong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -143,21 +136,21 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="F:/spider_file-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\douban" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_b2b" />
       <recent name="G:\GITHUB\SpiderList\spider-obj" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\wealth" />
-      <recent name="G:\GITHUB\SpiderList\spider-obj\dongfang_spider_stock" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.111">
+  <component name="RunManager" selected="Python.wealth">
     <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-obj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -285,11 +278,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wealth" />
         <item itemvalue="Python.111" />
         <item itemvalue="Python.222" />
         <item itemvalue="Python.LianJiaLogIn" />
         <item itemvalue="Python.baidu_b2b" />
-        <item itemvalue="Python.wealth" />
       </list>
     </recent_temporary>
   </component>
@@ -307,18 +300,20 @@
       <workItem from="1577437265225" duration="3136000" />
       <workItem from="1577671468906" duration="2830000" />
       <workItem from="1579332772792" duration="8501000" />
-      <workItem from="1579395513821" duration="812000" />
+      <workItem from="1579395513821" duration="890000" />
+      <workItem from="1582763324535" duration="176000" />
+      <workItem from="1583387810916" duration="249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16624000" />
+    <option name="totallyTimeSpent" value="17127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12739871" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12953092" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -378,16 +373,6 @@
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/README.md" />
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/onespiderstock.py" />
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/main.py" />
-    <entry file="file://$PROJECT_DIR$/wealth/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="116">
-            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baidu_b2b/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -405,13 +390,6 @@
           <folding>
             <element signature="e#3#43#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wealth/wealth.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="101" column="23" lean-forward="true" selection-start-line="101" selection-start-column="23" selection-end-line="101" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -437,7 +415,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/douban/douban_spider.py" />
     <entry file="file://$PROJECT_DIR$/lianjia/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -468,11 +445,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="145">
-            <caret line="5" column="73" lean-forward="true" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+            <caret line="5" column="12" lean-forward="true" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wealth/wealth.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wealth/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="116">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           </first_editor>
           <second_editor />
         </state>
@@ -480,7 +474,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/baidu_baijia/baidu_baijia.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1769">
+        <state relative-caret-position="811">
           <caret line="128" column="39" lean-forward="true" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
@@ -488,7 +482,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="145">
+            <caret line="5" column="73" selection-start-line="5" selection-start-column="73" selection-end-line="5" selection-end-column="73" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/spider_douban.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="47" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="47" />
+          <folding>
+            <element signature="e#1#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/douban/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="87">
