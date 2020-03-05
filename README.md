@@ -6,3 +6,4 @@
 * [链家](https://github.com/lilijiajiajiage/spider-obj/tree/master/lianjia)
 * [京东](https://github.com/lilijiajiajiage/spider-obj/tree/master/jingdong)
 * [豆瓣top](https://github.com/lilijiajiajiage/spider-obj/tree/master/douban)
+* [饿了么](https://github.com/lilijiajiajiage/spider-obj/tree/master/eleme)

@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jingdong/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jingdong/spider_jingdong.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eleme/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/eleme/spider_eleme.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +26,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="203">
-                <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+              <first_editor relative-caret-position="232">
+                <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               </first_editor>
               <second_editor />
             </state>
@@ -86,7 +85,9 @@
         <option value="$PROJECT_DIR$/douban/README.md" />
         <option value="$PROJECT_DIR$/jingdong/spider_jingdong.py" />
         <option value="$PROJECT_DIR$/jingdong/README.md" />
+        <option value="$PROJECT_DIR$/eleme/spider_eleme.py" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/eleme/README.md" />
       </list>
     </option>
   </component>
@@ -112,7 +113,12 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="jingdong" type="462c0819:PsiDirectoryNode" />
+              <item name="eleme" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
+              <item name="jikong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -130,11 +136,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\GITHUB\SpiderList\spider-obj\eleme" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\jingdong" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\douban" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_b2b" />
-      <recent name="G:\GITHUB\SpiderList\spider-obj" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
@@ -289,12 +295,12 @@
       <workItem from="1579332772792" duration="8501000" />
       <workItem from="1579395513821" duration="890000" />
       <workItem from="1582763324535" duration="176000" />
-      <workItem from="1583387810916" duration="1162000" />
+      <workItem from="1583387810916" duration="1307000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18040000" />
+    <option name="totallyTimeSpent" value="18185000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -305,7 +311,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2646421" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2646421" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,16 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jikong/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="87">
-            <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/baidu_baijia/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -516,11 +512,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/eleme/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="58">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jikong/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="87">
+            <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eleme/spider_eleme.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#53#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="203">
-            <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+          <first_editor relative-caret-position="232">
+            <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           </first_editor>
           <second_editor />
         </state>
