@@ -13,6 +13,7 @@
 * [今日头条搜索新闻](https://github.com/lilijiajiajiage/spider-obj/tree/master/jinritoutiao)
 * [搜狐搜索新闻](https://github.com/lilijiajiajiage/spider-obj/tree/master/souhu)
 * [必应搜索背景图爬取](https://github.com/lilijiajiajiage/spider-obj/tree/master/biying)
+* [一品威客爬虫](https://github.com/lilijiajiajiage/spider-obj/tree/master/weike)
 
 
 
