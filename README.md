@@ -14,6 +14,20 @@
 * [搜狐搜索新闻](https://github.com/lilijiajiajiage/spider-obj/tree/master/souhu)
 * [必应搜索背景图爬取](https://github.com/lilijiajiajiage/spider-obj/tree/master/biying)
 * [一品威客爬虫](https://github.com/lilijiajiajiage/spider-obj/tree/master/weike)
+* [慧聪网](https://github.com/lilijiajiajiage/spider-obj/tree/master/huicong)
+
+
+
+
+
+
+
+
+
+
+
+* [抖音爬虫]() （暂未上传）
+* [微信公众号爬虫]() （暂未上传）
 
 
 
