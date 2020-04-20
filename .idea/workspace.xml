@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="添加内容">
+      <change afterPath="$PROJECT_DIR$/baidu_news/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_news/spider_news.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/huicong/README.md" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/huicong/spider_huicongwang.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -29,11 +31,23 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
+        <entry file="file://$PROJECT_DIR$/baidu_news/spider_news.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="670">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="54" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baidu_news/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="400">
-                <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+              <first_editor relative-caret-position="50">
+                <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -111,6 +125,7 @@
         <option value="$PROJECT_DIR$/huicong/spider_huicongwang.py" />
         <option value="$PROJECT_DIR$/huicong/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/baidu_news/spider_news.py" />
       </list>
     </option>
   </component>
@@ -129,6 +144,16 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
+              <item name="baidu_news" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
+              <item name="biying" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,11 +176,11 @@
       <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_spider_obj\spider-obj\baidu_news" />
       <recent name="E:\git_spider_obj\spider-obj\huicong" />
       <recent name="E:\git_spider_obj\spider-obj\weike" />
       <recent name="E:\git_spider_obj\spider-obj\biying" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_app" />
-      <recent name="G:\GITHUB\SpiderList\spider-obj\souhu" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -310,12 +335,12 @@
       <workItem from="1583387810916" duration="8316000" />
       <workItem from="1586940380599" duration="3862000" />
       <workItem from="1587021404384" duration="8076000" />
-      <workItem from="1587348493258" duration="632000" />
+      <workItem from="1587348493258" duration="890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37764000" />
+    <option name="totallyTimeSpent" value="38022000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -363,7 +388,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/epwk一品威客/1shouye.py" />
     <entry file="file://F:/epwk一品威客/epwk.py" />
     <entry file="file://$PROJECT_DIR$/epwk/spider_epwk.py" />
     <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/ce.py" />
@@ -676,6 +700,26 @@
             <caret line="16" column="73" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_news/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="50">
+            <caret line="2" column="6" lean-forward="true" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_news/spider_news.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="23" selection-end-line="50" selection-end-column="54" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
