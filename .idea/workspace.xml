@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_zhidao/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,16 +13,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/spider_obj$spider_biying.coverage" NAME="spider_biying Coverage Results" MODIFIED="1587024111096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biying" />
-    <SUITE FILE_PATH="coverage/spider_obj$wealth.coverage" NAME="wealth Coverage Results" MODIFIED="1582763365365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wealth" />
-    <SUITE FILE_PATH="coverage/spider_obj$LianJiaLogIn.coverage" NAME="LianJiaLogIn Coverage Results" MODIFIED="1579333412875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
     <SUITE FILE_PATH="coverage/spider_obj$111.coverage" NAME="111 Coverage Results" MODIFIED="1579339055830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
-    <SUITE FILE_PATH="coverage/spider_obj$spider_jingdong.coverage" NAME="spider_jingdong Coverage Results" MODIFIED="1583388671659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jingdong" />
-    <SUITE FILE_PATH="coverage/spider_obj$baidu_b2b.coverage" NAME="baidu_b2b Coverage Results" MODIFIED="1577671990343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_b2b" />
     <SUITE FILE_PATH="coverage/spider_obj$222.coverage" NAME="222 Coverage Results" MODIFIED="1579337939680" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
     <SUITE FILE_PATH="coverage/spider_obj$test.coverage" NAME="test Coverage Results" MODIFIED="1583391907308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jipiao" />
     <SUITE FILE_PATH="coverage/spider_obj$spider_souhu.coverage" NAME="spider_souhu Coverage Results" MODIFIED="1583397574578" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/souhu" />
     <SUITE FILE_PATH="coverage/spider_obj$spider_video.coverage" NAME="spider_video Coverage Results" MODIFIED="1587714635128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_video" />
+    <SUITE FILE_PATH="coverage/spider_obj$spider_biying.coverage" NAME="spider_biying Coverage Results" MODIFIED="1587024111096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/biying" />
+    <SUITE FILE_PATH="coverage/spider_obj$wealth.coverage" NAME="wealth Coverage Results" MODIFIED="1582763365365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/wealth" />
+    <SUITE FILE_PATH="coverage/spider_obj$LianJiaLogIn.coverage" NAME="LianJiaLogIn Coverage Results" MODIFIED="1579333412875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lianjia_spider" />
+    <SUITE FILE_PATH="coverage/spider_obj$spider_zhidao.coverage" NAME="spider_zhidao Coverage Results" MODIFIED="1587861985526" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_zhidao" />
+    <SUITE FILE_PATH="coverage/spider_obj$spider_jingdong.coverage" NAME="spider_jingdong Coverage Results" MODIFIED="1583388671659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jingdong" />
+    <SUITE FILE_PATH="coverage/spider_obj$baidu_b2b.coverage" NAME="baidu_b2b Coverage Results" MODIFIED="1577671990343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/baidu_b2b" />
     <SUITE FILE_PATH="coverage/spider_obj$spider_jinritoutiao.coverage" NAME="spider_jinritoutiao Coverage Results" MODIFIED="1583396154450" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/jinritoutiao" />
     <SUITE FILE_PATH="coverage/spider_obj$spider_weike.coverage" NAME="spider_weike Coverage Results" MODIFIED="1587027923342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/weike" />
   </component>
@@ -43,10 +45,19 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
-                <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+              <first_editor relative-caret-position="200">
+                <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="389">
+              <caret line="106" column="33" lean-forward="true" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -128,13 +139,15 @@
         <option value="$PROJECT_DIR$/baidu_video/spider_baidu_video.py" />
         <option value="$PROJECT_DIR$/baidu_video/README.md" />
         <option value="$PROJECT_DIR$/baidu_video/spider_video.py" />
+        <option value="$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py" />
+        <option value="$PROJECT_DIR$/baidu_zhidao/README.md" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1212" />
-    <option name="height" value="999" />
+    <option name="height" value="860" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -152,7 +165,7 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="baidu_mouth" type="462c0819:PsiDirectoryNode" />
+              <item name="biying" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,11 +183,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_spider_obj\spider-obj\baidu_zhidao" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_video" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_mouth" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_news" />
       <recent name="E:\git_spider_obj\spider-obj\huicong" />
-      <recent name="E:\git_spider_obj\spider-obj\weike" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\git_spider_obj\spider-obj\biying" />
@@ -193,7 +206,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider_video">
+  <component name="RunManager" selected="Python.spider_zhidao">
     <configuration name="spider_biying" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="spider-obj" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -208,28 +221,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/biying/spider_biying.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spider_jinritoutiao" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="spider-obj" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/jinritoutiao" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/jinritoutiao/spider_jinritoutiao.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,13 +295,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="spider_zhidao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="spider-obj" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/baidu_zhidao" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spider_zhidao" />
         <item itemvalue="Python.spider_video" />
         <item itemvalue="Python.spider_weike" />
         <item itemvalue="Python.spider_biying" />
         <item itemvalue="Python.spider_souhu" />
-        <item itemvalue="Python.spider_jinritoutiao" />
       </list>
     </recent_temporary>
   </component>
@@ -334,7 +347,7 @@
       <workItem from="1586940380599" duration="3862000" />
       <workItem from="1587021404384" duration="8076000" />
       <workItem from="1587348493258" duration="3010000" />
-      <workItem from="1587713701487" duration="991000" />
+      <workItem from="1587713701487" duration="2286000" />
     </task>
     <task id="LOCAL-00001" summary="添加内容百度口碑">
       <created>1587714081446</created>
@@ -350,11 +363,18 @@
       <option name="project" value="LOCAL" />
       <updated>1587714664920</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="添加内容百度视频">
+      <created>1587714707154</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587714707154</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41133000" />
+    <option name="totallyTimeSpent" value="42428000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -365,7 +385,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34777898" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -404,8 +424,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/onespiderstock.py" />
-    <entry file="file://$PROJECT_DIR$/dongfang_spider_stock/main.py" />
     <entry file="file://$PROJECT_DIR$/baidu_b2b/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -765,11 +783,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_zhidao/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="25">
+            <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="106" column="33" lean-forward="true" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="11" column="74" lean-forward="true" selection-start-line="11" selection-start-column="74" selection-end-line="11" selection-end-column="74" />
+          <first_editor relative-caret-position="200">
+            <caret line="8" column="80" selection-start-line="8" selection-start-column="80" selection-end-line="8" selection-end-column="80" />
           </first_editor>
           <second_editor />
         </state>
