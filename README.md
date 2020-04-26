@@ -18,6 +18,7 @@
 * [必应搜索背景图爬取](https://github.com/lilijiajiajiage/spider-obj/tree/master/biying)
 * [一品威客爬虫](https://github.com/lilijiajiajiage/spider-obj/tree/master/weike)
 * [慧聪网](https://github.com/lilijiajiajiage/spider-obj/tree/master/huicong)
+* [微博](https://github.com/lilijiajiajiage/spider-obj/tree/master/weibo)
 
 
 
