@@ -19,6 +19,7 @@
 * [一品威客爬虫](https://github.com/lilijiajiajiage/spider-obj/tree/master/weike)
 * [慧聪网](https://github.com/lilijiajiajiage/spider-obj/tree/master/huicong)
 * [微博](https://github.com/lilijiajiajiage/spider-obj/tree/master/weibo)
+* [互联网报告](https://github.com/lilijiajiajiage/spider-obj/tree/master/report)
 
 
 
@@ -32,13 +33,3 @@
 
 * [抖音爬虫]() （暂未上传）
 * [微信公众号爬虫]() （暂未上传）
-
-
-
-
-
-
-
-
-
-

@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2c5707e-de73-4ae2-91b8-2dae66c1425c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/weibo/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weibo/spider_weibo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report_spider.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +33,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weibo/spider_weibo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-4661">
-              <caret line="41" column="93" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="93" />
+            <state relative-caret-position="595">
+              <caret line="239" selection-start-line="239" selection-end-line="239" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -42,13 +43,25 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/weibo/README.md">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="200">
-                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <first_editor relative-caret-position="619">
+                <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/report/report_spider.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="41" />
+              <folding>
+                <element signature="e#49#64#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,9 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/epwk/spider_epwk.py" />
-        <option value="F:/epwk一品威客/epwk.py" />
-        <option value="$PROJECT_DIR$/dongfang_spider_stock/README.md" />
         <option value="$PROJECT_DIR$/wealth/wealth.py" />
         <option value="$PROJECT_DIR$/baidu_b2b/baidu_b2b.py" />
         <option value="$PROJECT_DIR$/baidu_b2b/README.md" />
@@ -133,13 +143,17 @@
         <option value="$PROJECT_DIR$/baidu_video/spider_video.py" />
         <option value="$PROJECT_DIR$/baidu_zhidao/spider_zhidao.py" />
         <option value="$PROJECT_DIR$/baidu_zhidao/README.md" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/weibo/spider_weibo.py" />
         <option value="$PROJECT_DIR$/weibo/README.md" />
+        <option value="$PROJECT_DIR$/yanjiubaogao/baogao_spider.py" />
+        <option value="$PROJECT_DIR$/report/report_spider.py" />
+        <option value="$PROJECT_DIR$/report/README.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="11" />
     <option name="width" value="1212" />
     <option name="height" value="860" />
   </component>
@@ -148,7 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,12 +172,13 @@
             <path>
               <item name="spider-obj" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider-obj" type="462c0819:PsiDirectoryNode" />
-              <item name="weibo" type="462c0819:PsiDirectoryNode" />
+              <item name="report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -176,16 +190,16 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\git_spider_obj\spider-obj\biying" />
+      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\git_spider_obj\spider-obj\report" />
       <recent name="E:\git_spider_obj\spider-obj\weibo" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_zhidao" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_video" />
       <recent name="E:\git_spider_obj\spider-obj\baidu_mouth" />
-      <recent name="E:\git_spider_obj\spider-obj\baidu_news" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\git_spider_obj\spider-obj\biying" />
-      <recent name="G:\GITHUB\SpiderList\spider-obj\baidu_baijia" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -341,7 +355,8 @@
       <workItem from="1586940380599" duration="3862000" />
       <workItem from="1587021404384" duration="8076000" />
       <workItem from="1587348493258" duration="3010000" />
-      <workItem from="1587713701487" duration="3640000" />
+      <workItem from="1587713701487" duration="4408000" />
+      <workItem from="1589165961031" duration="370000" />
     </task>
     <task id="LOCAL-00001" summary="添加内容百度口碑">
       <created>1587714081446</created>
@@ -371,22 +386,29 @@
       <option name="project" value="LOCAL" />
       <updated>1587862075046</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="添加内容微博爬虫">
+      <created>1587863557377</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587863557377</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43782000" />
+    <option name="totallyTimeSpent" value="44920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09541578" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.096481875" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33152762" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33152762" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -412,7 +434,8 @@
     <MESSAGE value="添加内容百度口碑" />
     <MESSAGE value="添加内容百度视频" />
     <MESSAGE value="添加内容百度知道" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加内容百度知道" />
+    <MESSAGE value="添加内容微博爬虫" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加内容微博爬虫" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -431,8 +454,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/.gitignore" />
-    <entry file="file://$PROJECT_DIR$/lianjia_spider/screenshots/lianjia.jpg" />
     <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/1713295727/zlib.py" />
     <entry file="file://$PROJECT_DIR$/lianjia_spider/LianJiaLogIn.py" />
     <entry file="file://$PROJECT_DIR$/lianjia_spider/111.html" />
@@ -787,31 +808,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/weibo/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="475">
-            <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <first_editor>
+            <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/report/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="250">
+            <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/report/report_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="41" />
+          <folding>
+            <element signature="e#49#64#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/weibo/spider_weibo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4661">
-          <caret line="41" column="93" selection-start-line="41" selection-start-column="79" selection-end-line="41" selection-end-column="93" />
+        <state relative-caret-position="595">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weibo/README.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="200">
-            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <first_editor relative-caret-position="619">
+            <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
           </first_editor>
           <second_editor />
         </state>
